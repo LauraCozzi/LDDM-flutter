@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1681456643",
+    "firebase_url": "https://quiz-efcb6.firebaseio.com",
+    "project_id": "quiz-efcb6",
+    "storage_bucket": "quiz-efcb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1681456643:android:0af11d19353a7eb26e1836",
+        "android_client_info": {
+          "package_name": "br.com.cozzi.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1681456643-lcc6de3h61jcj6upm8871491anpg9025.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2R2QEuJunFVbDkCHx7eqVsPcUYh8GVd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1681456643-lcc6de3h61jcj6upm8871491anpg9025.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
