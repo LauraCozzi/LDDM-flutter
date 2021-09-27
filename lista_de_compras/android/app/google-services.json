@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "516461834717",
+    "firebase_url": "https://lista-de-compras-91447.firebaseio.com",
+    "project_id": "lista-de-compras-91447",
+    "storage_bucket": "lista-de-compras-91447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516461834717:android:68b05703b8aa33fc3dc634",
+        "android_client_info": {
+          "package_name": "br.com.cozzi.lista_de_compras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516461834717-9o2u6qi9bpfja27git8ce1rg5r5l0ib4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpfAPOzPp_LvjBYR_lY5Gz7MfB63EutvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516461834717-9o2u6qi9bpfja27git8ce1rg5r5l0ib4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
